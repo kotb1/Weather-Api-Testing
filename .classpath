@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WeatherAPI-Mocking/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WeatherAPI-Mocking/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/libs/http.zip"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/libs/gson-2.8.6.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/bodyy/Downloads/jmock-junit3-2.6.0-rc2-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/bodyy/Downloads/mockito-core-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/cglib-nodep-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-core-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-library-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-library-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-unit-test-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/hamcrest-unit-test-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/jmock-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/jmock-junit3-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/jmock-junit4-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/jmock-legacy-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/jmock-script-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_3/Mocking/lib/objenesis-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/cglib-2.1_3-src.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/jcommon-1.0.0-rc1-cvs.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/jcommon-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/junit.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/junit-old.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/objenesis-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cs 6/Software Testing/labs/lab_2/JFreeChart/lib/servlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
